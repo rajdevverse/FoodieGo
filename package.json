@@ -1,0 +1,12 @@
+{
+  "name": "foodiego-food-delivery",
+  "version": "1.0.0",
+  "description": "FoodieGo - Food Delivery Services web application (B.Tech CSE Mini Project)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "reset": "node data/seed.js --reset"
+  },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
